@@ -1,7 +1,7 @@
 # mac-dotfiles
-My dot files snippets to easy setup friendly environment on new Mac
+My dot files snippets to easy setup friendly environment on new Mac located [here](https://github.com/igorkotkovets/mac-dotfiles.git)
 
-The solution is based on https://developer.atlassian.com/blog/2016/02/best-way-to-store-dotfiles-git-bare-repo/
+My install script is based on solution from [here](https://developer.atlassian.com/blog/2016/02/best-way-to-store-dotfiles-git-bare-repo/)
 
 Usage
 ```bash
