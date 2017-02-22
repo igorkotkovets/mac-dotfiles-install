@@ -3,7 +3,12 @@ My dot files snippets to easy setup friendly environment on new Mac located [her
 
 My install script is based on solution from [here](https://developer.atlassian.com/blog/2016/02/best-way-to-store-dotfiles-git-bare-repo/)
 
-Usage
+## Installation 
+```bash
+$ curl -fSs https://raw.githubusercontent.com/igorkotkovets/mac-dotfiles/master/.bin/dotfiles-install.bash | /bin/bash
+```
+
+## After using
 ```bash
 $ dotfiles status // git status
 $ dotfiles add FILE // git add FILE
@@ -30,7 +35,4 @@ Installed <b>packages from sources</b>:
 * [rbenv](https://github.com/rbenv/rbenv)
 * [ruby-build](https://github.com/rbenv/ruby-build)
 
-## Installation 
-```bash
-$ curl -fSs https://raw.githubusercontent.com/igorkotkovets/mac-dotfiles/master/.bin/dotfiles-install.bash | /bin/bash
-```
+
