@@ -16,7 +16,7 @@ $ dotfiles commit // git commit
 $ dotfiles push/pull // git push/pull
 ```
 ## Environment
-###Installed <b>Homebrew</b> packages:
+Installed <b>Homebrew</b> packages:
 * [chisel](https://github.com/facebook/chisel)
 * emacs 
 * gradle
@@ -28,11 +28,11 @@ $ dotfiles push/pull // git push/pull
 * wget
 * youtube-dl
 
-###Installed <b>ruby gems</b>:
+Installed <b>ruby gems</b>:
 * tmuxinator
 * cocoapods
 
-###Installed <b>packages from sources</b>:
+Installed <b>packages from sources</b>:
 * [rbenv](https://github.com/rbenv/rbenv)
 * [ruby-build](https://github.com/rbenv/ruby-build)
 
