@@ -17,6 +17,7 @@ $ dotfiles push/pull // git push/pull
 ```
 ## Environment
 ###Installed <b>Homebrew</b> packages:
+* [chisel](https://github.com/facebook/chisel)
 * emacs 
 * gradle
 * midnight-commander
