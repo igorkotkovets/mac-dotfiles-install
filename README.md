@@ -16,7 +16,7 @@ $ dotfiles commit // git commit
 $ dotfiles push/pull // git push/pull
 ```
 ## Environment
-Installed <b>Homebrew</b> packages:
+Installed <b>[Homebrew](https://brew.sh)</b> packages:
 * [chisel](https://github.com/facebook/chisel)
 * emacs 
 * gradle
