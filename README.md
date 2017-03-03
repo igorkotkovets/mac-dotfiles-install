@@ -28,6 +28,10 @@ Installed <b>Homebrew</b> packages:
 * wget
 * youtube-dl
 
+```bash
+$ brew install chisel emacs gradle midnight-commander reattach-to-user-namespace swiftlint tmux unrar wget youtube-dl
+```
+
 Installed <b>ruby gems</b>:
 * tmuxinator
 * cocoapods
