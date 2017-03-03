@@ -16,6 +16,10 @@ $ dotfiles commit // git commit
 $ dotfiles push/pull // git push/pull
 ```
 ## Environment
+Installed <b>packages from sources</b>:
+* [rbenv](https://github.com/rbenv/rbenv)
+* [ruby-build](https://github.com/rbenv/ruby-build)
+
 Installed <b>[Homebrew](https://brew.sh)</b> packages:
 * [chisel](https://github.com/facebook/chisel)
 * emacs 
@@ -35,9 +39,5 @@ $ brew install chisel emacs gradle midnight-commander reattach-to-user-namespace
 Installed <b>ruby gems</b>:
 * tmuxinator
 * cocoapods
-
-Installed <b>packages from sources</b>:
-* [rbenv](https://github.com/rbenv/rbenv)
-* [ruby-build](https://github.com/rbenv/ruby-build)
 
 
