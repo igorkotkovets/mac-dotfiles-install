@@ -5,7 +5,7 @@ My install script is based on solution from [here](https://developer.atlassian.c
 
 ## Installation 
 ```bash
-$ curl -fSs https://raw.githubusercontent.com/igorkotkovets/mac-dotfiles-install/master/dotfiles-install.bash | /bin/bash
+$ curl -fSs https://git.io/vyptV | /bin/bash
 ```
 
 ## After use
