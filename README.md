@@ -38,7 +38,8 @@ $ brew install chisel emacs gradle midnight-commander reattach-to-user-namespace
 ```
 
 Installed <b>ruby gems</b>:
-* tmuxinator
 * cocoapods
+* [cocoapods-deintegrate](https://github.com/CocoaPods/cocoapods-deintegrate)
+* tmuxinator
 
 
