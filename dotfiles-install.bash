@@ -1,6 +1,7 @@
-working_copy_dir="$HOME/.mac-dotfiles"
+working_copy_dir="$HOME/.osx-dotfiles"
 backup_dir="$HOME/DOTFILES.BACKUP"
-git clone --bare https://github.com/igorkotkovets/mac-dotfiles ${working_copy_dir}
+dotfiles_repo="https://github.com/igorkotkovets/osx-dotfiles"
+git clone --bare ${dotfiles_repo} ${working_copy_dir}
 function dotfiles {
    /usr/bin/git --git-dir=${working_copy_dir}/ --work-tree=$HOME $@
 }
