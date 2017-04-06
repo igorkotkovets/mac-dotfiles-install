@@ -24,11 +24,11 @@ Installed <b>packages from sources</b>:
 Installed <b>[Homebrew](https://brew.sh)</b> packages:
 * [chisel](https://github.com/facebook/chisel)
 * emacs 
-* gradle
-* midnight-commander
-* reattach-to-user-namespace
-* swiftlint
-* tmux
+* [gradle](https://github.com/gradle/gradle)
+* [midnight-commander](https://github.com/rg3/youtube-dl)
+* [reattach-to-user-namespace](https://github.com/ChrisJohnsen/tmux-MacOSX-pasteboard)
+* [swiftlint](https://github.com/realm/SwiftLint)
+* [tmux](https://github.com/tmux/tmux)
 * unrar
 * wget
 * youtube-dl
@@ -38,9 +38,9 @@ $ brew install chisel emacs gradle midnight-commander reattach-to-user-namespace
 ```
 
 Installed <b>ruby gems</b>:
-* cocoapods
+* [cocoapods](https://github.com/CocoaPods/CocoaPods)
 * [cocoapods-deintegrate](https://github.com/CocoaPods/cocoapods-deintegrate)
-* tmuxinator
+* [tmuxinator](https://github.com/tmuxinator/tmuxinator)
 ```bash
 $ gem install cocoapods cocoapods-deintegrate tmuxinator
 ```
