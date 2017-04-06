@@ -41,5 +41,7 @@ Installed <b>ruby gems</b>:
 * cocoapods
 * [cocoapods-deintegrate](https://github.com/CocoaPods/cocoapods-deintegrate)
 * tmuxinator
-
+```bash
+$ gem install cocoapods cocoapods-deintegrate tmuxinator
+```
 
