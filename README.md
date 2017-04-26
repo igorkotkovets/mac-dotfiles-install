@@ -20,6 +20,7 @@ $ dotfiles push/pull // git push/pull
 Installed <b>packages from sources</b>:
 * [rbenv](https://github.com/rbenv/rbenv)
 * [ruby-build](https://github.com/rbenv/ruby-build)
+* [pip](http://pip.readthedocs.io/en/stable/installing/) **Install to the user site**
 
 Installed <b>[Homebrew](https://brew.sh)</b> packages:
 * [chisel](https://github.com/facebook/chisel)
