@@ -35,7 +35,8 @@ Installed <b>[Homebrew](https://brew.sh)</b> packages:
 * youtube-dl
 
 ```bash
-$ brew install chisel emacs gradle midnight-commander reattach-to-user-namespace swiftlint tmux unrar wget youtube-dl
+$ brew tap Homebrew/bundle
+$ brew bundle
 ```
 
 Installed <b>ruby gems</b>:
