@@ -43,7 +43,8 @@ Installed <b>ruby gems</b>:
 * [cocoapods](https://github.com/CocoaPods/CocoaPods)
 * [cocoapods-deintegrate](https://github.com/CocoaPods/cocoapods-deintegrate)
 * [tmuxinator](https://github.com/tmuxinator/tmuxinator)
+* [houston](https://github.com/nomad/houston)
 ```bash
-$ gem install cocoapods cocoapods-deintegrate tmuxinator [houston](https://github.com/nomad/houston)
+$ gem install cocoapods cocoapods-deintegrate tmuxinator houston
 ```
 
