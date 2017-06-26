@@ -44,7 +44,8 @@ Installed <b>ruby gems</b>:
 * [cocoapods-deintegrate](https://github.com/CocoaPods/cocoapods-deintegrate)
 * [tmuxinator](https://github.com/tmuxinator/tmuxinator)
 * [houston](https://github.com/nomad/houston)
+* [jazzy](https://github.com/realm/jazzy)
 ```bash
-$ gem install cocoapods cocoapods-deintegrate tmuxinator houston
+$ gem install cocoapods cocoapods-deintegrate tmuxinator houston jazzy
 ```
 
