@@ -22,6 +22,7 @@ Installed <b>packages from sources</b>:
 * [rbenv](https://github.com/rbenv/rbenv)
 * [ruby-build](https://github.com/rbenv/ruby-build)
 * [pip](http://pip.readthedocs.io/en/stable/installing/) **Install to the user site**
+* [pyenv](https://github.com/pyenv/pyenv#basic-github-checkout)
 
 Installed <b>[Homebrew](https://brew.sh)</b> packages:
 * [chisel](https://github.com/facebook/chisel)
