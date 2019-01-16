@@ -39,7 +39,9 @@ Installed <b>[Homebrew](https://brew.sh)</b> packages:
 ```bash
 $ brew tap Homebrew/bundle
 $ brew install "carthage" "chisel" "emacs" "e2fsprogs" "ffmpeg" "gradle" "highlight" "ideviceinstaller" "imagemagick" "midnight-commander" "node" "pipenv" "reattach-to-user-namespace" "swiftlint" "tig" "tmux" "unrar" "vapor" "wget" "youtube-dl"
+$ brew cask "pusher" "provisionql" "xquartz" "inkscape"
 ```
+
 
 Installed <b>ruby gems</b>:
 * [cocoapods](https://github.com/CocoaPods/CocoaPods)
